@@ -38,7 +38,7 @@
 - Transformed complex data into clear and concise narratives to communicate insights
 - Applied Pareto principle (80/20 rule), focus on actionable head data, reduce costs, improve customer satisfaction and loyalty
 <img src="images/firsttableauprojectA.png"/>
-<img src="images/firsttableauprojectb.png)"/>
+<img src="images/firsttableauprojectB.png)"/>
 
 
 
