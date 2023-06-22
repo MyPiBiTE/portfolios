@@ -30,7 +30,7 @@
 <img src="images/Random Forest AOC.png?raw=true"/>
 
 ---
-[My First Tableau Project, See how far I've come)](https://public.tableau.com/app/profile/mypybite/viz/SalesDashboardQ12021/SalesDashboard-Q12021)
+[My First Tableau Project, See where I started)](https://public.tableau.com/app/profile/mypybite/viz/SalesDashboardQ12021/SalesDashboard-Q12021)
 - Worked on Cannabis Merchandise sales data, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
 - Transformed complex data into clear and concise narratives to communicate insights
