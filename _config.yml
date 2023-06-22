@@ -1,14 +1,18 @@
-title:   Elvis Liang
+title:   David M B Espinosa
 logo: "/images/Profile.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
-  I am an accomplished data analyst, product owner, and system analyst, specializing in fraud monitoring & alternative trading systems (ATS). With a proven track record of delivering cutting-edge technical solutions, I consistently enhance the experiences of customers and analytical professionals. I possess expertise in SQL, Python, and Power BI, enabling me to automate dashboards, optimize workflows, and provide clear guidance to stakeholders using accessible language. My skills include analyzing behavioral data, identifying business gaps, and developing tailored solutions for both internal and external stakeholders.
+description:
+<br><br><br>
+> Data analyst, product owner, and business system analyst focused on delivering innovative solutions that improve the experiences of customers and analytic professionals.
+<br><br>
+Adept SQL & Python programmer, aswell as a profficient data visualization expert in Power BI, with the ability to automate dashnboards, streamline processes, and provide clear guidance to stakeholders. Expertise in analyzing behavioral data, identifying business gaps, and developing solutions that meet the needs of both internal and external stakeholders.
+<br>
+Not to mention a decades worth domain knowledge in investment services as a certified CSC professional.
   <br><br><br>
-  <a href="https://www.linkedin.com/in/shuchangl/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/mypybite/">My LinkedIn Profile</a>
   <br><br>
-  <a href="https://public.tableau.com/profile/shuchang.liang#!/">View My Tableau Work Samples</a>
+  <a href="https://public.tableau.com/app/profile/mypybite">My Portfolio Samples</a>
   <br><br>
-  <a href="https://www.notion.so/elvisliang/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6">View My Notion Portfolios</a>
+  <a href="https://mypybite.notion.site/mypybite/Portfolio-David-M-B-Espinosa-f16d3342805e487b93ef93a2c45f99c5">My Notion Portfolios</a>
   
 theme: jekyll-theme-minimal   
  
